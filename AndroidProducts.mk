@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_d2x.mk
+    $(LOCAL_DIR)/cherish_d2x.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_d2x-eng \
-    xtended_d2x-user \
-    xtended_d2x-userdebug
+    cherish_d2x-eng \
+    cherish_d2x-user \
+    cherish_d2x-userdebug
